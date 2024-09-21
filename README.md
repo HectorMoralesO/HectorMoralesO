@@ -18,6 +18,6 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 **Contacto:**
 
 * **Email:** hector.rld@comunidad.unam.mx
-* **LinkedIn:** https://www.linkedin.com/hector-morales-o/
+* [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-morales-o/)
 
 
