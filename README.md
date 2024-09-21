@@ -1,4 +1,4 @@
- # Héctor Morales Osorio - Data Scientist
+ # Héctor Morales - Data Scientist
  
 ¡Hola! Soy Héctor Morales, un apasionado en análisis de datos con experiencia en el sector público. 
 
