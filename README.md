@@ -13,7 +13,7 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 
 **Proyectos:**
 
-* **Aplicación web:** Visualización de anuncios de ventas de autos ![Enlace](htpps://appweb-iarp.onrender.com)
+* **Aplicación web:** Visualización de anuncios de ventas de autos [https://appweb-iarp.onrender.com]
 
 **Contacto:**
 
