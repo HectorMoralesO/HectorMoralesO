@@ -1,16 +1,23 @@
-## Hi there 👋
+ # Héctor Morales Osorio - Data Scientist
+ 
+¡Hola! Soy Héctor Morales, un apasionado en análisis de datos con experiencia en el sector público. 
 
-<!--
-**HectorMoralesO/HectorMoralesO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Acerca de mí:**
 
-Here are some ideas to get you started:
+Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfruto compartir mis conocimientos con los demás.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack tecnológico:**
+
+* **Lenguajes:** Python, R, SAS
+* **Bases de datos:** MongoDB, SQL
+
+**Proyectos:**
+
+* **Aplicación web:** Visualización de anuncios de ventas de autos [Enlace al repositorio]
+
+**Contacto:**
+
+* **Email:** hector.rld@comunidad.unam.mx
+* **LinkedIn:** https://www.linkedin.com/hector-morales-o/
+
+
