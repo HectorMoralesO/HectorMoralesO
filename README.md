@@ -19,10 +19,10 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 
 **Proyectos:**
 
-* :bar_chart: **Aplicación web:** Visualización de anuncios de ventas de autos [app]
+* :bar_chart: **Aplicación web:** Visualización de anuncios de ventas de autos [enlace_app]
 * :taxi: **Predicción de la demanda de taxis**: Modelo predictivo que permita anticipar la demanda de taxis en diferentes horas del día [enlace_prediccion_demanda]
 * :movie_camera: **Clasificación de reseñas de películas**: Se desarrolló un modelo capaz de detectar automáticamente las críticas negativas de películas [enlace_clasificacion_peliculas]
-* :chart_with_upwards_trend: **Predicción tasa de cancelación:** Predecir la tasa de cancelación de clientes con el objetivo de retener a aquellos usuarios que podrían estar considerando dejar el servicio
+* :chart_with_upwards_trend: **Predicción tasa de cancelación:** Predecir la tasa de cancelación de clientes con el objetivo de retener a aquellos usuarios que podrían estar considerando dejar el servicio [enlace_prediccion_tasa]
 
 **Contacto:**
 
@@ -33,6 +33,6 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 
    [enlace_app]: <https://appweb-iarp.onrender.com>
    [enlace_prediccion_demanda]: <https://github.com/HectorMoralesO/prediccion_demanda_taxis>
-   [enlace_clasificacion_peliculas]: <[https://github.com/HectorMoralesO/clasificacion_resena_peliculas]>
+   [enlace_clasificacion_peliculas]: <https://github.com/HectorMoralesO/clasificacion_resena_peliculas>
    [enlace_prediccion_tasa]: <https://github.com/HectorMoralesO/prediccion_tasa_cancelacion>
 
