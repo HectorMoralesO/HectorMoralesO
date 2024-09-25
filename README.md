@@ -29,7 +29,7 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 * [![](https://img.shields.io/badge/Correo-hector.rld@comunidad.unam.mx-30B980?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:hector.rld@comunidad.unam.mx)
 * [![](https://img.shields.io/badge/LinkedIn-Hector_Morales_O-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-morales-o/)
 
-[//]: # Referencias
+
 
    [enlace_app]: <https://appweb-iarp.onrender.com>
    [enlace_prediccion_demanda]: <https://github.com/HectorMoralesO/prediccion_demanda_taxis>
