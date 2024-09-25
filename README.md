@@ -19,7 +19,7 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 
 **Proyectos:**
 
-* :bar_chart: **Aplicación web:** Visualización de anuncios de ventas de autos ![enlace][https://appweb-iarp.onrender.com]
+* :bar_chart: **Aplicación web:** Visualización de anuncios de ventas de autos (enlace)[https://appweb-iarp.onrender.com])
 * :taxi: **Predicción de la demanda de taxis**: Modelo predictivo que permita anticipar la demanda de taxis en diferentes horas del día [https://github.com/HectorMoralesO/prediccion_demanda_taxis]
 * :movie_camera: **Clasificación de reseñas de películas**: Se desarrolló un modelo capaz de detectar automáticamente las críticas negativas de películas [https://github.com/HectorMoralesO/clasificacion_resena_peliculas]
 * :chart_with_upwards_trend: **Predicción tasa de cancelación:** Predecir la tasa de cancelación de clientes con el objetivo de retener a aquellos usuarios que podrían estar considerando dejar el servicio
