@@ -1,6 +1,6 @@
  # Héctor Morales - Data Scientist
  
-¡Hola! Soy Héctor Morales, un apasionado en análisis de datos con experiencia en el sector público. 
+:smiley: ¡Hola! Soy Héctor Morales, un apasionado en análisis de datos con experiencia en el sector público. 
 
 **Acerca de mí:**
 
@@ -19,9 +19,9 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 
 **Proyectos:**
 
-* :bar_chart: **Aplicación web:** Visualización de anuncios de ventas de autos (enlace)[https://appweb-iarp.onrender.com]
-* :taxi: **Predicción de la demanda de taxis**: Modelo predictivo que permita anticipar la demanda de taxis en diferentes horas del día [https://github.com/HectorMoralesO/prediccion_demanda_taxis]
-* :movie_camera: **Clasificación de reseñas de películas**: Se desarrolló un modelo capaz de detectar automáticamente las críticas negativas de películas [https://github.com/HectorMoralesO/clasificacion_resena_peliculas]
+* :bar_chart: **Aplicación web:** Visualización de anuncios de ventas de autos [app]
+* :taxi: **Predicción de la demanda de taxis**: Modelo predictivo que permita anticipar la demanda de taxis en diferentes horas del día [enlace_prediccion_demanda]
+* :movie_camera: **Clasificación de reseñas de películas**: Se desarrolló un modelo capaz de detectar automáticamente las críticas negativas de películas [enlace_clasificacion_peliculas]
 * :chart_with_upwards_trend: **Predicción tasa de cancelación:** Predecir la tasa de cancelación de clientes con el objetivo de retener a aquellos usuarios que podrían estar considerando dejar el servicio
 
 **Contacto:**
@@ -29,4 +29,10 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 * [![](https://img.shields.io/badge/Correo-hector.rld@comunidad.unam.mx-30B980?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:hector.rld@comunidad.unam.mx)
 * [![](https://img.shields.io/badge/LinkedIn-Hector_Morales_O-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-morales-o/)
 
+[//]: # Referencias
+
+   [enlace_app]: <https://appweb-iarp.onrender.com>
+   [enlace_prediccion_demanda]: <https://github.com/HectorMoralesO/prediccion_demanda_taxis>
+   [enlace_clasificacion_peliculas]: <[https://github.com/HectorMoralesO/clasificacion_resena_peliculas]>
+   [enlace_prediccion_tasa]: <https://github.com/HectorMoralesO/prediccion_tasa_cancelacion>
 
