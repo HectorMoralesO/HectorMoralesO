@@ -13,9 +13,9 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 
 **Mis habilidades:**
 
-- **Análisis de datos:** Exploratorio, descriptivo, predictivo
-- **Visualización:** Creación de dashboards y gráficos impactantes
-- **Desarrollo:** Construcción de aplicaciones web, modelos predictivos y de clasificación
+- 	:mag: **Análisis de datos:** Exploratorio, descriptivo, predictivo
+- :computer: **Visualización:** Creación de dashboards y gráficos impactantes
+- :globe_with_meridians: **Desarrollo:** Construcción de aplicaciones web, modelos predictivos y de clasificación
 
 **Proyectos:**
 
