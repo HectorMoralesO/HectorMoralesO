@@ -23,6 +23,7 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
 * :taxi: **Predicción de la demanda de taxis**: Modelo predictivo que permita anticipar la demanda de taxis en diferentes horas del día [enlace_prediccion_demanda]
 * :movie_camera: **Clasificación de reseñas de películas**: Se desarrolló un modelo capaz de detectar automáticamente las críticas negativas de películas [enlace_clasificacion_peliculas]
 * :chart_with_upwards_trend: **Predicción tasa de cancelación:** Predecir la tasa de cancelación de clientes con el objetivo de retener a aquellos usuarios que podrían estar considerando dejar el servicio [enlace_prediccion_tasa]
+* :bank: **Preprocesamiento de datos para análisis de riesgo de crédito**  Preprocesar datos para su posterior uso en un modelo de riesgo [enlace_preprocesamiento]
 
 **Contacto:**
 
@@ -35,4 +36,5 @@ Me encanta aprender sobre visualización, análisis de datos y finanzas. Disfrut
    [enlace_prediccion_demanda]: <https://github.com/HectorMoralesO/prediccion_demanda_taxis>
    [enlace_clasificacion_peliculas]: <https://github.com/HectorMoralesO/clasificacion_resena_peliculas>
    [enlace_prediccion_tasa]: <https://github.com/HectorMoralesO/prediccion_tasa_cancelacion>
+   [enlace_preprocesamiento]:<https://github.com/HectorMoralesO/riesgo_de_credito>
 
